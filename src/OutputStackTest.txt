@@ -1,0 +1,116 @@
+Choose one of the following operations:
+- push/add (enter the letter a)
+- pop/delete (enter the letter d)
+- check empty (enter the letter e)
+- peek/check (enter the letter p)
+- quit (enter the letter q)
+Please input a command: 
+e
+The stack is empty.
+Please input a command: 
+a
+Enter Integer: 1
+'1' Added Successfully.
+Please input a command: 
+p
+'1' is on the top.
+Please input a command: 
+a
+Enter Integer: 2
+'2' Added Successfully.
+Please input a command: 
+a
+Enter Integer: ddd
+Entry was invalid.
+Please input a command: 
+a
+Enter Integer: 3
+'3' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 4
+'4' Added Successfully.
+Please input a command: 
+a
+Enter Integer: .5
+Entry was invalid.
+Please input a command: 
+p
+'4' is on the top.
+Please input a command: 
+d
+'4' Removed Successfully.
+Please input a command: 
+e
+The stack is NOT empty.
+Please input a command: 
+d
+'3' Removed Successfully.
+Please input a command: 
+d
+'2' Removed Successfully.
+Please input a command: 
+p
+'1' is on the top.
+Please input a command: 
+d
+'1' Removed Successfully.
+Please input a command: 
+p
+Invalid operation: the stack is empty.
+Please input a command: 
+a
+Enter Integer: 1
+'1' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 2a
+Entry was invalid.
+Please input a command: 
+a
+Enter Integer: 2
+'2' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 3
+'3' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 4
+'4' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 5
+'5' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 6
+'6' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 7
+'7' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 8
+'8' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 9
+'9' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 10
+'10' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 11
+'11' Added Successfully.
+Please input a command: 
+a
+Enter Integer: 12
+'12' Added Successfully.
+Please input a command: 
+q
+Quitting...
+12 11 10 9 8 7 6 5 4 3 2 1 
