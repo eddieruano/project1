@@ -6,5 +6,11 @@
  **/
 
 public class Converter {
-
+	public static String infixToPostfix (String expression){
+		return "0.0";
+	}
+	
+	public static double postfixValue (String expression){
+		return 0.0;
+	}
 }
